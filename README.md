@@ -1,6 +1,6 @@
 Managing conference materials in LaTeX.
 
-For detailed explanation, please, visit http://yetanotherbiochemblog.blogspot.com/category/latex
+For detailed explanation, please, visit http://yetanotherbiochemblog.wordpress.com/category/latex
 
 To-do list:
 
